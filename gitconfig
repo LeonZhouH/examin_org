@@ -1,0 +1,13 @@
+[alias]
+    co = checkout
+    ci = commit
+    br = branch
+    st = status
+    so = status -uno
+[user]
+	name = leon
+	email = zhougong410@126.com
+[color]
+	ui = true
+[core]
+	editor = vim
